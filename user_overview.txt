@@ -1,0 +1,18 @@
+[User Overview]
+
+Total number of users: 	 2
+Total tasks: 			 3
+
+Username: 								 admin
+Assigned tasks: 						 2
+Tasks assigned to user (percentage): 	 66.66666666666666%
+Tasks completed (percentage): 			 0.0%
+Tasks in progress (percentage): 		 100.0%
+Tasks overdue (percentage): 			 100.0%
+
+Username: 								 James
+Assigned tasks: 						 1
+Tasks assigned to user (percentage): 	 33.33333333333333%
+Tasks completed (percentage): 			 0.0%
+Tasks in progress (percentage): 		 100.0%
+Tasks overdue (percentage): 			 0.0%
