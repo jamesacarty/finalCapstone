@@ -33,7 +33,7 @@ Usage:
    c - Mark selected task as complete
    e - Return to main menu
 
-![image](https://github.com/jamesacarty/finalCapstone/assets/138507422/2948cc1f-11f1-41c1-aa3d-e776f01e1e76)
+   ![image](https://github.com/jamesacarty/finalCapstone/assets/138507422/2948cc1f-11f1-41c1-aa3d-e776f01e1e76)
 
 
    Authors:
